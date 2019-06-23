@@ -1,0 +1,15 @@
+Rajzolj egy új táblázatot, amejben teljes egészében módosítod a tevékenységeket. Az új program feladata nem az j-ok számlálása, hanem egy „hejesírásreform” végrehajtása. Ennek a beolvasott szöveget majdnem változatlanul kell kiírnia a kimenetre – azzal a különbséggel, hogy az j-ok hejett j-t, a dupla jj-ok hejett jj-t kell kiírnia. Pl. juk→juk, gajj→gajj, viszont majom→majom marad, és a kulcs, illetve a hallgat szavak is változatlanok maradnak. (Ezek a példák fontos állapotátmeneteket és tevékenységeket tesztelnek.)
+l
+ll
+j
+jj
+ll
+a
+l
+L
+LL
+J
+LJ
+LL
+A
+L

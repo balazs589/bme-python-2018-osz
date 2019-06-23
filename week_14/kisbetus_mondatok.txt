@@ -1,0 +1,31 @@
+írj állapotgépes programot, amely a beírt, csupa kisbetűkből álló szöveget úgy javítja ki, hogy minden mondat elején álló első betűt nagybetűre cseréli!
+
+arj állapotgépes programot, amely a beírt, csupa kisbetűkből álló szöveget úgy javítja ki, hogy minden mondat elején álló első betűt nagybetűre cseréli!
+
+árj állapotgépes programot, amely a beírt, csupa kisbetűkből álló szöveget úgy javítja ki, hogy minden mondat elején álló első betűt nagybetűre cseréli!
+
+erj állapotgépes programot, amely a beírt, csupa kisbetűkből álló szöveget úgy javítja ki, hogy minden mondat elején álló első betűt nagybetűre cseréli!
+
+érj állapotgépes programot, amely a beírt, csupa kisbetűkből álló szöveget úgy javítja ki, hogy minden mondat elején álló első betűt nagybetűre cseréli!
+
+irj állapotgépes programot, amely a beírt, csupa kisbetűkből álló szöveget úgy javítja ki, hogy minden mondat elején álló első betűt nagybetűre cseréli!
+
+írj állapotgépes programot, amely a beírt, csupa kisbetűkből álló szöveget úgy javítja ki, hogy minden mondat elején álló első betűt nagybetűre cseréli!
+
+orj állapotgépes programot, amely a beírt, csupa kisbetűkből álló szöveget úgy javítja ki, hogy minden mondat elején álló első betűt nagybetűre cseréli!
+
+órj állapotgépes programot, amely a beírt, csupa kisbetűkből álló szöveget úgy javítja ki, hogy minden mondat elején álló első betűt nagybetűre cseréli!
+
+örj állapotgépes programot, amely a beírt, csupa kisbetűkből álló szöveget úgy javítja ki, hogy minden mondat elején álló első betűt nagybetűre cseréli!
+
+őrj állapotgépes programot, amely a beírt, csupa kisbetűkből álló szöveget úgy javítja ki, hogy minden mondat elején álló első betűt nagybetűre cseréli!
+
+urj állapotgépes programot, amely a beírt, csupa kisbetűkből álló szöveget úgy javítja ki, hogy minden mondat elején álló első betűt nagybetűre cseréli!
+
+úrj állapotgépes programot, amely a beírt, csupa kisbetűkből álló szöveget úgy javítja ki, hogy minden mondat elején álló első betűt nagybetűre cseréli!
+
+ürj állapotgépes programot, amely a beírt, csupa kisbetűkből álló szöveget úgy javítja ki, hogy minden mondat elején álló első betűt nagybetűre cseréli!
+
+űrj állapotgépes programot, amely a beírt, csupa kisbetűkből álló szöveget úgy javítja ki, hogy minden mondat elején álló első betűt nagybetűre cseréli!
+
+mondat végét jelző írásjel után a következő betű nagybetű, de csak akkor, ha szóköz is jött. figyelni kell, hogy az utána lévő szóköztől nem váltunk kisbetűs módra még! a gép alapállapota a nagybetűsítés, hiszen a bejövő szöveg legelső karaktere biztosan mondat elején van.

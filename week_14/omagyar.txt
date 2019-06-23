@@ -1,0 +1,15 @@
+Rajzolj egy új táblázatot, amelyben teljes egészében módosítod a tevékenységeket. Az új program feladata nem az ly-ok számlálása, hanem egy „hejesírásreform” végrehajtása. Ennek a beolvasott szöveget majdnem változatlanul kell kiírnia a kimenetre – azzal a különbséggel, hogy az ly-ok helyett j-t, a dupla lly-ok helyett jj-t kell kiírnia. Pl. lyuk→juk, gally→gajj, viszont majom→majom marad, és a kulcs, illetve a hallgat szavak is változatlanok maradnak. (Ezek a példák fontos állapotátmeneteket és tevékenységeket tesztelnek.)
+l
+ll
+ly
+lly
+ll
+a
+l
+L
+LL
+LY
+LLY
+LL
+A
+L
